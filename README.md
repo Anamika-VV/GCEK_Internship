@@ -1,2 +1,4 @@
-# Day 1 : Introduction to Git and Github
+# Edge IoT and Smart Automation 
+
+#### 14 days hybrid internship
 
